@@ -1,2 +1,2 @@
 # ts-sample-docs
-This is my first test repository for my Asciidoc proje t.
+This is my first test repository for my Asciidoc project.
