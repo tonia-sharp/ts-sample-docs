@@ -1,0 +1,99 @@
+
+# Map
+
+The Map is a visualization tool built on top of ChartHop's powerful people analytics platform.&#x20;
+
+By default, all employees can access the map and view everyone’s work locations. Users who have access to sensitive data have an additional option to view employees either by their home or work address*.*
+
+As you create and assign locations to employees in your Groups, they will appear on the map.
+
+![The ChartHop map.](https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/3lvg5qc29BkXNP_nTW_Z6_06-mapmap.jpg)
+
+NOTE:
+In order to protect employee privacy, exact addresses and locations are concealed and map pinpoints are randomized based on zip code. Only employees with Owner role or a role that gives them access to sensitive information can see exact locations. xref:org-chart.adoc[Learn more]
+
+
+## Filtering the Map view
+
+You can use filters to highlight specific teams, departments, and functions on the map.
+
+![Use the map filters to produce the exact visualization you need.](https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/MRBjJsd38rXI0KUAYGN_u_06-mapfiltering.jpg)
+
+### Filtering maps in scenarios
+
+You can apply filters generally to your map by using the built-in filter feature. [Learn more](https://docs.charthop.com/filtering-data).
+
+Though the data on the default Map view is set by your organization's current structure, you may also want to apply filters to your map based on the Scenarios you have created.&#x20;
+
+To apply data filters to your map based on scenarios:
+
+1.  Select a scenario from the **Scenario** dropdown menu.
+
+2.  Selecting the scenario will now open it in **draft** mode in the **Map** tab.
+image::images/navigating-bar.png[]
+
+
+
+3.  Apply your filters.
+
+NOTE:
+Keep in mind that the data filtered through a scenario on the map will only be scoped to that scenario.
+
+### Visualizing map data
+
+For a quick visual, you can apply highlights to employees on your map using the **Visualization** tool. Select a visualization category from the **Visualization** dropdown menu.
+
+Some more helpful categories to visualize include:
+
+*   Location
+
+*   Band
+
+*   Team
+
+*   Department
+
+## Setting work locations
+
+The map will display any office or remote locations for employees given that they have an address. You can set addresses for Office and remote locations in the **Locations** tab of the **Groups** page. [Learn more](https://docs.charthop.com/creating-locations).
+
+You can also use the **Set work location **feature to make changes to your remote work location or home address.&#x20;
+
+Alternatively, as an HR representative or owner, you can send a message to your employees and instruct them to update their addresses using an example like below:
+
+*If you’re working from a remote location other than your home address, please go to *[*this link*](app.charthop.com/form/remoteWorkAddress)* *[**](https://docs.charthop.com/docs/people-planning/app.charthop.com/form/remoteWorkAddress)*and update it. Once everyone has updated their location, you’ll be able to view our distributed team using the Map on ChartHop.*
+
+:::hint
+If you do not see your work locations appear on the map, check to make sure that they've been assigned a country.
+:::
+
+### Adding or Changing a remote work address
+
+If you have an address dedicated to remote work that is different from your home address, you can setup a distinct remote work location. As an owner, if your organization is fully remote, you can skip this section.&#x20;
+
+To setup a remote work location:
+
+1.  From the Map view, select **Set work l**ocation
+
+2.  Select the **Other Location** tab in the **Set work location** dialog box.
+
+3.  Fill in your **Remote Work Address** details.
+
+4.  Select **Save location**.
+
+### Adding or Changing a home address
+
+If you need to change your home location or update your mailing address, you can update your direct address in your personal profile.
+
+To update an address:
+
+1.  Select your **Profile image** from the Sidebar.
+
+2.  Select **My profile**.
+
+3.  Select **Edit my info** from the **down** **arrow** dropdown menu.
+
+4.  Edit your address in the **Home address** fields.
+
+5.  Select **Save**.
+
