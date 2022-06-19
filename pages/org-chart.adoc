@@ -1,0 +1,64 @@
+# Org Chart
+
+One of your most powerful tools in ChartHop is the **Org Chart**. After you upload your employee roster and historical data into the system, the Org Chart page allows you to easily navigate aspects of your organization, such as departments and teams, and view particular employee profiles.
+
+<https://youtu.be/avPeQOxtrKs>
+
+The Org Chart view is always set to Primary, which displays the current state of your organization. ChartHop users with the correct permissions can view planning scenarios with the Scenario selector in the top left corner.
+
+![Org Chart](https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/u30eOLcJGgN8v34lgUxUE_04-org-chart.jpg)
+
+### Adjusting the view
+
+You can use the view adjustment tools in the lower left to adjust your view of the org chart.  You also have the flexibility of changing your view of the Org Chart by using your mouse or trackpad.**  **Interact** **with an** **empty space in the Org chart and simply drag in any direction.
+
+[%header,format=csv]
+|===
+Adjustment, Usage
+Zooming,Select the plus or minus zoom icons to zoom your view.  You can also enter a specific zoom percentage.
+Orientation, Change the orientation from vertical to horizontal by selecting the corresponding icons on the far left.
+Reset view, Select **Reset view** to return to the default Org Chart view.
+|===
+
+### Searching the Org Chart
+
+Use the search bar to search for  *jobs*, *people*, or *groups* within the Org Chart. Click into the search field to begin typing your desired search. If you want to view an open role or view the profile of a person in a job, type the job title, and the results will appear as you type. Similarly, If you want to bring up an individual within your organization, type their name until they appear. Once you click their name from the search field, the org chart will load that person as they appear in your organization's hierarchy.&#x20;
+
+### Viewing departments or specific employees
+
+Selecting the manager of a team or department to see only that team or department's manage and their direct reports. . Select the manager to restrict your view to that manager and their direct reports.&#x20;
+
+Double-click any card in the Org Chart to view the employee profile information for that employee. The data you see here depends on your permissions.
+
+### Viewing your Org Chart over time
+
+You can use the date slider at the top of the page to see a date-based view of your Org Chart. Drag the slider to the left to see  past data or drag the slider to the right to see coming changes.
+
+You can refine what you see in your Org Chart by setting up filters.
+
+### Visualize different aspects of your organization
+
+The Visualize dropdown is allows you to highlight specific areas of your organization. Depending on the attribute you choose from the list, employee cards will display specific data and be color-coded according to what you select.
+
+include::reuse.adoc[tag=this]
+
+For example, if you select Location from the Visualize drop-down, the location information is displayed for each employee and each location displays in a different color.
+
+![Visualizing location in the Org Chart.](https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/Zx65UFhVTTTQKaOyKBlzR_04-org-chartlocation.jpg)
+
+### Export your Org Chart
+
+You can export your Org Chart to a Microsoft Powerpoint file. Depending on the size of your organization, the export make take some time.&#x20;
+
+1.  Select **Export**, and the select **Powerpoint**.
+
+2.  Use the options in the Export Powerpoint dialog box to refine how your slides will look and what is included. You can experiment with different and criteria according to what you need. You can choose what to include/exclude or provide a custom filter.
+
+    *   **Detailed View** includes all headcount associated with the same team on the same slide.
+
+3.  Select **Export**.
+4. and then the grand finale!
+** mini-one
+** mini-two
+
+5. Nono, this is the last!
