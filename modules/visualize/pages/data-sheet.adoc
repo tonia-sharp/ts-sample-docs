@@ -26,17 +26,17 @@ The Data Sheet includes the following built-in views that you can select from th
 
 ### Customize the number of columns to display
 
-You can customize which fields are used as columns in the Data Sheet page. 
+You can customize which fields are used as columns in the Data Sheet page.
 
-1.  On the Data Sheet page, select Edit Columns.
+1.  On the Data Sheet page, select **Edit Columns**.
 
-2.  In the Edit Columns dialog box, select or clear the corresponding check box next to each field you want to display in the list.
+2.  In the **Edit Columns** dialog box, select or clear the corresponding check box next to each field you want to display in the list.
 
 3.  Reorder the columns by dragging the fields in the Column order list.&#x20;
 
 4.  Optionally, select the X to delete a column you don't want to use.
 
-5.  Select Apply to save your changes.
+5.  Select **Apply** to save your changes.
 
 ![Choose columns to display new fields](https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/tk0T1idXam2IYuxrvMlFh_05-data-sheetchoosing-columns.jpg)
 
@@ -48,7 +48,7 @@ ChartHop filtering also allows you to create complex filters based on your organ
 
 Use Field rules to refine your data to only those employees or jobs that meet certain criteria, like filtering the list for all employees that have birthdays in June.
 
-Note:
+IMPORTANT:
 Advanced users can learn how to use ChartHop's Carrot query language to build filtering queries. [Learn more.](https://docs.charthop.com/carrot-reference)
 
 
@@ -56,11 +56,11 @@ Advanced users can learn how to use ChartHop's Carrot query language to build fi
 
 ## Exporting data
 
-You can export data to a spreadsheet or a PDF file. &#x20;
+You can export data to a spreadsheet or a PDF file.
 
-:::hint
+TIP:
 If you want to view live data outside of ChartHop, you can synchronize a Data Sheet view with Microsoft Excel or Google Sheets file. [Learn more.](https://docs.charthop.com/live-queries)
-:::
+
 
 ### Export to a CSV
 
