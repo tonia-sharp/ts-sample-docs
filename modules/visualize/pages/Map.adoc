@@ -30,7 +30,7 @@ To apply data filters to your map based on scenarios:
 1.  Select a scenario from the **Scenario** dropdown menu.
 
 2.  Selecting the scenario will now open it in **draft** mode in the **Map** tab.
-image::images/navigating-bar.png[navigating-bar]
+image::navigating-bar.png[navigating-bar]
 
 
 
