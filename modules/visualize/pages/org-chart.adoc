@@ -8,7 +8,7 @@ The Org Chart view is always set to Primary, which displays the current state of
 
 ![Org Chart](https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/u30eOLcJGgN8v34lgUxUE_04-org-chart.jpg)
 
-### Adjusting the view
+=== Adjusting the view
 
 You can use the view adjustment tools in the lower left to adjust your view of the org chart.  You also have the flexibility of changing your view of the Org Chart by using your mouse or trackpad.**  **Interact** **with an** **empty space in the Org chart and simply drag in any direction.
 
@@ -20,13 +20,13 @@ Orientation, Change the orientation from vertical to horizontal by selecting the
 Reset view, Select **Reset view** to return to the default Org Chart view.
 |===
 
-### Searching the Org Chart
+=== Searching the Org Chart
 
 Use the search bar to search for  *jobs*, *people*, or *groups* within the Org Chart. Click into the search field to begin typing your desired search. If you want to view an open role or view the profile of a person in a job, type the job title, and the results will appear as you type. Similarly, If you want to bring up an individual within your organization, type their name until they appear. Once you click their name from the search field, the org chart will load that person as they appear in your organization's hierarchy.&#x20;
 
 ### Viewing departments or specific employees
 
-Selecting the manager of a team or department to see only that team or department's manage and their direct reports. . Select the manager to restrict your view to that manager and their direct reports.&#x20;
+Selecting the manager of a team or department to see only that team or department's manage and their direct reports. . Select the manager to restrict your view to that manager and their direct reports.
 
 Double-click any card in the Org Chart to view the employee profile information for that employee. The data you see here depends on your permissions.
 
@@ -57,8 +57,5 @@ You can export your Org Chart to a Microsoft Powerpoint file. Depending on the s
     *   **Detailed View** includes all headcount associated with the same team on the same slide.
 
 3.  Select **Export**.
-4. and then the grand finale!
-** mini-one
-** mini-two
 
-5. Nono, this is the last!
+include::partial$shared-lines.adoc[]
