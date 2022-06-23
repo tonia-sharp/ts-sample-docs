@@ -58,4 +58,4 @@ You can export your Org Chart to a Microsoft Powerpoint file. Depending on the s
 
 3.  Select **Export**.
 
-include::partial$shared-lines.adoc[]
+include::partial$shared-notes.adoc[]
