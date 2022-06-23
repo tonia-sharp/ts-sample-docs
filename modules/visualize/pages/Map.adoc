@@ -31,11 +31,11 @@ To apply data filters to your map based on scenarios:
 
 2.  Selecting the scenario will now open it in **draft** mode in the **Map** tab.
 
++
 image::navigating-bar.png[navigating-bar]
++
 
-
-
-3.  Apply your filters.
+3. Apply your filters
 
 NOTE:
 Keep in mind that the data filtered through a scenario on the map will only be scoped to that scenario.
