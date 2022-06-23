@@ -5,8 +5,8 @@ ChartHop is a people analytics platform that enables executives, managers, and p
 
 Looking for a great place to learn about setting up ChartHop? Check out some of the pages below.
 
-*   link:..docs/visualize/org-chart.html[Org Chart]
+*   link:./visualize/org-chart.html[Org Chart]
 
-* link:..docs/visualize/Map.html[Navigating ChartHop]
+* link:./visualize/Map.html[Navigating ChartHop]
 
-* link:..docs/visualize/data-sheet.html[Data Sheet^]
+* link:./visualize/data-sheet.html[Data Sheet^]
