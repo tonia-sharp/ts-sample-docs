@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Map :: Tonia&#x27;s Sample Docs</title>
+    <link rel="canonical" href="https://tonia.docs.com/docs/1.0/visualize/Map.html">
+    <meta name="generator" content="Antora 3.0.1">
+    <link rel="stylesheet" href="../../../_/css/site.css">
+    <script>var uiRootPath = '../../../_'</script>
+  </head>
+  <body class="article">
+<header class="header">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="https://tonia.docs.com">Tonia&#x27;s Sample Docs</a>
+      <button class="navbar-burger" data-target="topbar-nav">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+    <div id="topbar-nav" class="navbar-menu">
+      <div class="navbar-end">
+        <a class="navbar-item" href="#">Home</a>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" href="#">Products</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="#">Product A</a>
+            <a class="navbar-item" href="#">Product B</a>
+            <a class="navbar-item" href="#">Product C</a>
+          </div>
+        </div>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" href="#">Services</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="#">Service A</a>
+            <a class="navbar-item" href="#">Service B</a>
+            <a class="navbar-item" href="#">Service C</a>
+          </div>
+        </div>
+        <div class="navbar-item">
+          <span class="control">
+            <a class="button is-primary" href="#">Download</a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+<div class="body">
+<div class="nav-container" data-component="docs" data-version="1.0">
+  <aside class="nav">
+    <div class="panels">
+<div class="nav-panel-explore is-active" data-panel="explore">
+  <div class="context">
+    <span class="title">ChartHop Documentation</span>
+    <span class="version">1.0</span>
+  </div>
+  <ul class="components">
+    <li class="component is-current">
+      <a class="title" href="../index.html">ChartHop Documentation</a>
+      <ul class="versions">
+        <li class="version is-current is-latest">
+          <a href="../index.html">1.0</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+    </div>
+  </aside>
+</div>
+<main class="article">
+<div class="toolbar" role="navigation">
+<button class="nav-toggle"></button>
+  <a href="../index.html" class="home-link"></a>
+<nav class="breadcrumbs" aria-label="breadcrumbs">
+</nav>
+  <div class="edit-this-page"><a href="https://github.com/tonia-sharp/ts-sample-docs/edit/main/modules/visualize/pages/Map.adoc">Edit this Page</a></div>
+  </div>
+  <div class="content">
+<aside class="toc sidebar" data-title="Contents" data-levels="2">
+  <div class="toc-menu"></div>
+</aside>
+<article class="doc">
+<h1 class="page">Map</h1>
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>The Map is a visualization tool built on top of ChartHop&#8217;s powerful people analytics platform.&#x20;</p>
+</div>
+<div class="paragraph">
+<p>By default, all employees can access the map and view everyone’s work locations. Users who have access to sensitive data have an additional option to view employees either by their home or work address*.*</p>
+</div>
+<div class="paragraph">
+<p>As you create and assign locations to employees in your Groups, they will appear on the map.</p>
+</div>
+<div class="paragraph">
+<p>![The ChartHop map.](<a href="https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/3lvg5qc29BkXNP_nTW_Z6_06-mapmap.jpg" class="bare">https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/3lvg5qc29BkXNP_nTW_Z6_06-mapmap.jpg</a>)</p>
+</div>
+<div class="paragraph">
+<p>NOTE:
+In order to protect employee privacy, exact addresses and locations are concealed and map pinpoints are randomized based on zip code. Only employees with Owner role or a role that gives them access to sensitive information can see exact locations. <a href="org-chart.html" class="xref page">Learn more</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_filtering_the_map_view"><a class="anchor" href="#_filtering_the_map_view"></a>Filtering the Map view</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>You can use filters to highlight specific teams, departments, and functions on the map.</p>
+</div>
+<div class="paragraph">
+<p>![Use the map filters to produce the exact visualization you need.](<a href="https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/MRBjJsd38rXI0KUAYGN_u_06-mapfiltering.jpg" class="bare">https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/MRBjJsd38rXI0KUAYGN_u_06-mapfiltering.jpg</a>)</p>
+</div>
+<div class="sect2">
+<h3 id="_filtering_maps_in_scenarios"><a class="anchor" href="#_filtering_maps_in_scenarios"></a>Filtering maps in scenarios</h3>
+<div class="paragraph">
+<p>You can apply filters generally to your map by using the built-in filter feature. [Learn more](<a href="https://docs.charthop.com/filtering-data" class="bare">https://docs.charthop.com/filtering-data</a>).</p>
+</div>
+<div class="paragraph">
+<p>Though the data on the default Map view is set by your organization&#8217;s current structure, you may also want to apply filters to your map based on the Scenarios you have created.&#x20;</p>
+</div>
+<div class="paragraph">
+<p>To apply data filters to your map based on scenarios:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Select a scenario from the <strong>Scenario</strong> dropdown menu.</p>
+</li>
+<li>
+<p>Selecting the scenario will now open it in <strong>draft</strong> mode in the <strong>Map</strong> tab.
+image::images/navigating-bar.png[navigating-bar]</p>
+</li>
+<li>
+<p>Apply your filters.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>NOTE:
+Keep in mind that the data filtered through a scenario on the map will only be scoped to that scenario.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_visualizing_map_data"><a class="anchor" href="#_visualizing_map_data"></a>Visualizing map data</h3>
+<div class="paragraph">
+<p>For a quick visual, you can apply highlights to employees on your map using the <strong>Visualization</strong> tool. Select a visualization category from the <strong>Visualization</strong> dropdown menu.</p>
+</div>
+<div class="paragraph">
+<p>Some more helpful categories to visualize include:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Location</p>
+</li>
+<li>
+<p>Band</p>
+</li>
+<li>
+<p>Team</p>
+</li>
+<li>
+<p>Department</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_setting_work_locations"><a class="anchor" href="#_setting_work_locations"></a>Setting work locations</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The map will display any office or remote locations for employees given that they have an address. You can set addresses for Office and remote locations in the <strong>Locations</strong> tab of the <strong>Groups</strong> page. [Learn more](<a href="https://docs.charthop.com/creating-locations" class="bare">https://docs.charthop.com/creating-locations</a>).</p>
+</div>
+<div class="paragraph">
+<p>You can also use the <strong>Set work location </strong>feature to make changes to your remote work location or home address.&#x20;</p>
+</div>
+<div class="paragraph">
+<p>Alternatively, as an HR representative or owner, you can send a message to your employees and instruct them to update their addresses using an example like below:</p>
+</div>
+<div class="paragraph">
+<p><strong>If you’re working from a remote location other than your home address, please go to *[*this link</strong>](app.charthop.com/form/remoteWorkAddress)* <strong>[</strong>*](<a href="https://docs.charthop.com/docs/people-planning/app.charthop.com/form/remoteWorkAddress" class="bare">https://docs.charthop.com/docs/people-planning/app.charthop.com/form/remoteWorkAddress</a>)<strong>and update it. Once everyone has updated their location, you’ll be able to view our distributed team using the Map on ChartHop.</strong></p>
+</div>
+<div class="paragraph">
+<p>:::hint
+If you do not see your work locations appear on the map, check to make sure that they&#8217;ve been assigned a country.
+:::</p>
+</div>
+<div class="sect2">
+<h3 id="_adding_or_changing_a_remote_work_address"><a class="anchor" href="#_adding_or_changing_a_remote_work_address"></a>Adding or Changing a remote work address</h3>
+<div class="paragraph">
+<p>If you have an address dedicated to remote work that is different from your home address, you can setup a distinct remote work location. As an owner, if your organization is fully remote, you can skip this section.&#x20;</p>
+</div>
+<div class="paragraph">
+<p>To setup a remote work location:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>From the Map view, select <strong>Set work l</strong>ocation</p>
+</li>
+<li>
+<p>Select the <strong>Other Location</strong> tab in the <strong>Set work location</strong> dialog box.</p>
+</li>
+<li>
+<p>Fill in your <strong>Remote Work Address</strong> details.</p>
+</li>
+<li>
+<p>Select <strong>Save location</strong>.</p>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_adding_or_changing_a_home_address"><a class="anchor" href="#_adding_or_changing_a_home_address"></a>Adding or Changing a home address</h3>
+<div class="paragraph">
+<p>If you need to change your home location or update your mailing address, you can update your direct address in your personal profile.</p>
+</div>
+<div class="paragraph">
+<p>To update an address:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Select your <strong>Profile image</strong> from the Sidebar.</p>
+</li>
+<li>
+<p>Select <strong>My profile</strong>.</p>
+</li>
+<li>
+<p>Select <strong>Edit my info</strong> from the <strong>down</strong> <strong>arrow</strong> dropdown menu.</p>
+</li>
+<li>
+<p>Edit your address in the <strong>Home address</strong> fields.</p>
+</li>
+<li>
+<p>Select <strong>Save</strong>.</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+</article>
+  </div>
+</main>
+</div>
+<footer class="footer">
+  <p>This page was built using the Antora default UI.</p>
+  <p>The source code for this UI is licensed under the terms of the MPL-2.0 license.</p>
+</footer>
+<script src="../../../_/js/site.js"></script>
+<script async src="../../../_/js/vendor/highlight.js"></script>
+  </body>
+</html>
