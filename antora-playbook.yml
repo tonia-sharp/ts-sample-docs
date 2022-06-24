@@ -1,0 +1,14 @@
+site:
+  title: Tonia's Sample Docs
+  url: https://tonia.docs.com 
+  start_page: docs::index.adoc
+content:
+  sources:
+  - url: https://github.com/tonia-sharp/ts-sample-docs.git
+ 
+
+ 
+ui:  
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true

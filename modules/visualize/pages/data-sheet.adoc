@@ -1,5 +1,5 @@
 
-# Data Sheet
+= Data Sheet
 
 
 The **Data Sheet** page provides a list view of your organization, which is helpful when you need to customize how you see your organization's data or edit the data for multiple employees at once.
@@ -12,7 +12,7 @@ Select the Data Sheet icon from the left sidebar to view the Data Sheet.
 
 ![Data sheet](https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/M-u5HqSLzzNXOvMjwfBhe_05-data-sheetdata-sheet.jpg)
 
-## Customizing the Data Sheet page
+== Customizing the Data Sheet page
 
 You can refine the Data Sheet page to display only the data you need. The page displays the default Data Explorer view with a few fields used as columns an no filters applied
 
@@ -24,7 +24,7 @@ The Data Sheet includes the following built-in views that you can select from th
 
 *   The **Open Roles** view displays all open roles and includes a complete set of recruiting and hiring fields as columns.&#x20;
 
-### Customize the number of columns to display
+=== Customize the number of columns to display
 
 You can customize which fields are used as columns in the Data Sheet page.
 
@@ -40,7 +40,7 @@ You can customize which fields are used as columns in the Data Sheet page.
 
 ![Choose columns to display new fields](https://archbee-image-uploads.s3.amazonaws.com/CXAjUAezd9VEEVQBIYmdw/tk0T1idXam2IYuxrvMlFh_05-data-sheetchoosing-columns.jpg)
 
-### Filtering the Data Sheet
+=== Filtering the Data Sheet
 
 As most pages in ChartHop, you can filter the data displayed on the Data Sheet page. With filtering, you can choose to see only those people and/or jobs in your organization that you are interested in. For example, you can filter by employeement status and particular changes like departing employees.&#x20;
 
